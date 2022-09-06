@@ -30,7 +30,15 @@ body {
     /* height: 300px; */
     border-radius: 5px;
 }
-/* .btn-click: */
+.text-center{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.card-section{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-bottom: 50px;
+}
 
 
 
@@ -43,6 +51,15 @@ body {
 
 
 
-@media (min-width: 576px) { 
-    
+@media screen and (max-width: 668px) { 
+    .card-section{
+        display:grid;
+        grid-template-columns: repeat(1,1fr);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+        gap: 10px;
+        margin:20px;
+    }
  }
