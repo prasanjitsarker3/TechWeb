@@ -1,0 +1,48 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.carousel{
+    /* margin-top:20px;
+    margin-bottom:20px; */
+    padding: 20px;
+}
+.discover{
+    margin-top:50px;
+    margin-bottom: 50px;
+}
+.btn{
+    margin: 30px;
+}
+.work-text h1{
+    font-size: 50px;
+}
+.work-back{
+    background-color:aliceblue;
+   
+    margin-top: 50px;
+   
+}
+.ready-sec{
+    margin: 30px;
+    padding: 100px;
+    background-color: #02B290;
+    /* height: 300px; */
+    border-radius: 5px;
+}
+/* .btn-click: */
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) { 
+    
+ }
