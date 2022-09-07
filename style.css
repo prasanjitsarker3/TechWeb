@@ -74,6 +74,11 @@ body {
         gap: 10px;
         margin:20px;
     }
+    .carousel-caption{
+       visibility: hidden;
+       
+
+    }
     .company-img{
        
         grid-template-columns: repeat(1,1fr);
